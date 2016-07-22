@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Activity Week 3</string>
+    <string name="titulo">Welcome</string>
+    <string name="boton1">Enter</string>
+</resources>
